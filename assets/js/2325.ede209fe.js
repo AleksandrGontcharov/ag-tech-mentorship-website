@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkag_tech_mentoring=globalThis.webpackChunkag_tech_mentoring||[]).push([[2325],{2325:(e,a,c)=>{c.d(a,{createPacketServices:()=>t.$});var t=c(1477);c(7960)}}]);

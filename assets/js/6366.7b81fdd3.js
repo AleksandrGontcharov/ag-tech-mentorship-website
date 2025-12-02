@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkag_tech_mentoring=globalThis.webpackChunkag_tech_mentoring||[]).push([[6366],{6366:(e,c,t)=>{t.d(c,{createArchitectureServices:()=>a.S});var a=t(8980);t(7960)}}]);
